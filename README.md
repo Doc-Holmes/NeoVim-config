@@ -36,3 +36,4 @@ A few steps are needed to set it up.
 - [mbbill/undotree](https://github.com/nvim-treesitter/nvim-treesitter) 
 - [theprimeagen/harpoon](https://github.com/theprimeagen/harpoon) 
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) 
+- Colorscheme [PaperColor](https://github.com/NLKNguyen/papercolor-theme) 
