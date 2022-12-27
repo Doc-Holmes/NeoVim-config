@@ -5,7 +5,7 @@
 A few steps are needed to set it up.
 
 - Install Packer either through the AUR or [something else](https://github.com/wbthomason/packer.nvim) 
-- Create the directory structure from the repo in `~/.config/nvim/` 
+- Create the directory structure and link the files from the repo (hardlinks or softlinks. I used hardlinks)
 ```
 ~/.config/nvim
 ├── after
@@ -28,6 +28,5 @@ A few steps are needed to set it up.
 └── plugin
 ```
 
-- Link the files to the newly created directories (hard or softlinks. I used hardlinks)
 - Open `./lua/plugins.lua` in vim and run `:so` and `:PackerSync` 
 - Packer should then install all the plugins
