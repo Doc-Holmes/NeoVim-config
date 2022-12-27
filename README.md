@@ -30,3 +30,9 @@ A few steps are needed to set it up.
 
 - Open `./lua/plugins.lua` in vim and run `:so` and `:PackerSync` 
 - Packer should then install all the plugins
+
+## Plugins and packages used
+- [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) 
+- [mbbill/undotree](https://github.com/nvim-treesitter/nvim-treesitter) 
+- [theprimeagen/harpoon](https://github.com/theprimeagen/harpoon) 
+- [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) 
