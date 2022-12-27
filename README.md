@@ -32,8 +32,11 @@ A few steps are needed to set it up.
 - Packer should then install all the plugins
 
 ## Plugins and packages used
+- Plugin manager: [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)  
+- Colorscheme:    [PaperColor](https://github.com/NLKNguyen/papercolor-theme) 
 - [nvim-treesitter/nvim-treesitter](https://github.com/nvim-treesitter/nvim-treesitter) 
 - [mbbill/undotree](https://github.com/nvim-treesitter/nvim-treesitter) 
 - [theprimeagen/harpoon](https://github.com/theprimeagen/harpoon) 
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) 
-- Colorscheme [PaperColor](https://github.com/NLKNguyen/papercolor-theme) 
+- [VonHeikemen/lsp-zero.nvim](https://github.com/VonHeikemen/lsp-zero.nvim) 
+- [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) 
