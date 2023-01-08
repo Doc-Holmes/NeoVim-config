@@ -13,7 +13,8 @@ opt.mouse = ""
 --[[ Context ]]
 opt.relativenumber = true
 opt.number = true
-scrolloff = 8
+scrolloff = 10
+vim.diagnostic.config({ virtual_text = true })
 
 --[[ Filetypes ]]
 opt.encoding = 'utf8'
