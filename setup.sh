@@ -1,5 +1,8 @@
 #!/bin/bash
 
+echo "Removing current config"
+yes | rm -rf ~/.config/nvim*
+
 echo "Creating directory structure in ~/.config/nvim/"
 mkdir -p ~/.config/nvim/after/plugin/ ~/.config/nvim/colors/ ~/.config/nvim/lua/
 
