@@ -3,6 +3,7 @@
 local opt = vim.opt
 
 --[[ Other stuff ]]
+--This is a change
 --opt.nocompatible  = true
 --opt.cursorline = true
 --opt.nowrap = true
