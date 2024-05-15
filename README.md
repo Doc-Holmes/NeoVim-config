@@ -8,6 +8,7 @@ A few steps are needed to set it up.
 - Run `setup.sh` with **the user who will use the nvim config**.
 - Open `./lua/plugins.lua` in vim and run `:so` and `:PackerSync` 
 - Packer should then install all the plugins
+- Some shit
 
 ## Plugins and packages used
 - Plugin manager: [wbthomason/packer.nvim](https://github.com/wbthomason/packer.nvim)  
